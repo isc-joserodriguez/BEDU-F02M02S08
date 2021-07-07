@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/isc-joserodriguez/BEDU_F02M02S08.git"
+    "url": "git+https://github.com/isc-joserodriguez/BEDU-F02M02S08.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/isc-joserodriguez/BEDU_F02M02S08/issues"
+    "url": "https://github.com/isc-joserodriguez/BEDU-F02M02S08/issues"
   },
-  "homepage": "https://github.com/isc-joserodriguez/BEDU_F02M02S08#readme",
+  "homepage": "https://github.com/isc-joserodriguez/BEDU-F02M02S08#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
